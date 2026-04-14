@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Soho (そほ) 👋
 
-<!--
-**e245730/e245730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+琉球大学 工学部 知能情報コース 3年の渡久地奏歩です。
+現在はWeb技術とアルゴリズムを中心に学習しています。
 
-Here are some ideas to get you started:
+## 🛠 Skills & Interests
+- **Languages:** Python (paiza等で学習中), C (授業で使用)
+- **Interests:** アルゴリズム, チーム開発, サービス制作
+- **Goals:** 2026年内のインターン参加に向けて、自作プロダクトの開発に挑戦中
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Learning Status
+- **paiza:** 継続的にコーディングスキルを強化中
+- **University:** 知能情報コースにてコンピュータサイエンスの基礎を修得
